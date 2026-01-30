@@ -144,12 +144,6 @@ LinkedIn : https://www.linkedin.com/in/mohit-kumar-iitp/
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ⭐ **If you like this project, don’t forget to give it a star on GitHub!**
 
 
